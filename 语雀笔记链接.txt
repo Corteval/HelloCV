@@ -1,0 +1,13 @@
+泥嚎。这里是链接。
+
+安装 ROS2 ：https://www.yuque.com/u59597487/bkggb8/twdked1zsmxgkqlf?singleDoc# 《安装 ROS2 ：赞美小鱼🙏》
+
+https://www.yuque.com/u59597487/bkggb8/mzc8c6ggbeenavld?singleDoc# 《配置 VS Code：Hello,world!》
+
+https://www.yuque.com/u59597487/bkggb8/rf0r46gdn51nz1wa?singleDoc# 《安装并配置 OpenCV：“借你借你一双慧眼””》
+
+https://www.yuque.com/u59597487/bkggb8/lw1wvbbfgbo8q06v?#《安装与配置 Git》
+
+https://www.yuque.com/u59597487/bkggb8/frvprhvbl0h5357q?singleDoc# 《安装 Ubuntu：美美与共》
+
+https://www.yuque.com/u59597487/bkggb8/ersfetomkp9qp6hr?singleDoc# 《学习使用Ubuntu》
